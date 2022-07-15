@@ -1,0 +1,13 @@
+cmd,channel,kategorie,usageDesciption,response,fullMessage
+!easteregg,GLOBAL,easteregg,,you have found the egg parzival,false
+!bot info,GLOBAL,normal,!bot info,bot made by @jasatai (bot is in pre-alpha),true
+ara ara,GLOBAL,easteregg,,ara ara :p,true
+moin,#sayuri_und_sato,normal,moin <username>,servus @${cmw[1]},false
+gn8,#sayuri_und_sato,normal,gn8 <username>,sayu sato und jasatai wünschen @${cmw[1]} eine gute nacht und süße träume🌙,false
+!naughty,GLOBAL,normal,!naughty <username>,@${cmw[1]} has been put on the naughty step,false
+!lurk,GLOBAL,normal,!lurk,thanks for lurking💜,false
+!bye,#jasatai,normal,!bye <username>,@${cmw[1]} is leaving. Hope to see you another time <3,false
+!dev time,GLOBAL,dev,!dev time,time in ms sice 01.01.1970: ${Date.now()},true
+!discord,#jasatai,normal,!discord,you can get to my discord via this link: discord.gg//NpWat7qDgw,false
+!dc,#jasatai,normal,!dc,you can get to my discord via this link: discord.gg//NpWat7qDgw,false
+!test,GLOBAL,normal,!test,Jasatai's Jasaibot is working! the second word was + cmw[1],false
